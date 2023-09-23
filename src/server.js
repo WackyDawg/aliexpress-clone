@@ -4,7 +4,8 @@ const { spawn } = require('child_process');
 const servers = [
   { name: 'Backend Server', path: './src/backend/server.js' },
   { name: 'CDN Server', path: './cdn/app.js' },
-  // Add more servers as needed
+  { name: 'Desktop Server', path: './desktop/app.js' },
+  { name: 'Mobile Server', path: './mobile/app.js' },
 ];
 
 // Function to start a server
