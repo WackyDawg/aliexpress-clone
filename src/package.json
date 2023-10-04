@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start-all-servers": "concurrently \"npm start --prefix ./backend\" \"npm start --prefix ./cdn\" \"npm start --prefix ./desktop\" \"npm start --prefix ./mobile\""
+  },
+  "author": "",
+  "license": "ISC"
+}
