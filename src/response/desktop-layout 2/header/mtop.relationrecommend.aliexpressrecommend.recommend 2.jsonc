@@ -1,0 +1,613 @@
+{
+    "api": "mtop.relationrecommend.aliexpressrecommend.recommend",
+    "data": {
+        "result": [
+            1
+        ],
+        "data": {
+            "layoutInfo": [
+                "categories",
+                "subCategories",
+                "rankList",
+                "searchList"
+            ],
+            "fountainTabs": {
+                "items": [
+                    {
+                        "realtimePrismTagId": "1000474483",
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "display_keyword": "Top selling",
+                                "categoryTab": "home_&_garden",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "appUrlParams": {
+                            "itemTabId": "0",
+                            "osf": "category_navigate_newTab2",
+                            "searchBizScene": "openSearch",
+                            "style": "list",
+                            "nasa_tag_ids": "1000474483"
+                        },
+                        "id": "0",
+                        "title": "Top selling"
+                    }
+                ],
+                "selectedTab": "0"
+            },
+            "success": true,
+            "categoryTabs": {
+                "trace": {
+                    "exposure": {},
+                    "click": {},
+                    "utLogMap": {
+                        "image": "",
+                        "ae_sg_tpp_buckets": "",
+                        "sub_title": "",
+                        "x_object_type": "category_navigate",
+                        "input_query": "",
+                        "guide_trace": "ae_sg_pvid___|||ae_sg_abid___null|||scene___shopping_guide_query|||scene_id___null|||ae_sg_tpp_buckets___",
+                        "icon": "",
+                        "page_num": 0,
+                        "language": "",
+                        "ship_to_country": "",
+                        "scene": "shopping_guide_query",
+                        "search_clk_action": "search",
+                        "search_bar_action": "",
+                        "ae_sg_pvid": "",
+                        "action": "Recommended for you",
+                        "list_no": 0,
+                        "use_redirect": false,
+                        "from_cate_id": "",
+                        "x_object_id": "recommend",
+                        "from_item_id": ""
+                    }
+                },
+                "expInfo": "exp_mode=normal",
+                "items": [
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "home_%26_garden",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Home & Garden",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Home & Garden",
+                                "ship_to_country": "NG",
+                                "card_list": ";recommend",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S3b6c9b38f6a84e648d61204846191266t/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sf3ce8a4d256f4724843914fada892eb9r/27x27.png",
+                        "id": "home_&_garden",
+                        "title": "Home & Garden"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "hair_extensions_%26_wigs",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Hair Extensions & Wigs",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Hair Extensions & Wigs",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S7ee5799f76124cd8b02d089b36eae2f3r/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S9ba86ab4034f4f8fa62961ff245525a1r/27x27.png",
+                        "id": "hair_extensions_&_wigs",
+                        "title": "Hair Extensions & Wigs"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "men%27s_clothing",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Men's Clothing",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Men's Clothing",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S1a23b2690ccb4bf184a36abfe2b84e10A/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sdaf9c16675c64afbbce35b1839e65afbn/27x27.png",
+                        "id": "men's_clothing",
+                        "title": "Men's Clothing"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "accessories",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Accessories",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Accessories",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S90581ba5eaf64a51a3d78145b46a9164L/440x440.jpg",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S02e5c2b638834667933b792f0078d2aad/27x27.png",
+                        "id": "accessories",
+                        "title": "Accessories"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "consumer_electronics",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Consumer Electronics",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Consumer Electronics",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Sa60c45c7822f4b90a3b3933121fbbcbcN/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S919f0cbe533d42e58d518a178b214bced/27x27.png",
+                        "id": "consumer_electronics",
+                        "title": "Consumer Electronics"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "home_improvement_%26_lighting",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Home Improvement & Lighting",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Home Improvement & Lighting",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S8243e69aaf1c423682fc614a60b957bbn/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sd246952f2ef84ee0bcfbb60d71528b18g/27x27.png",
+                        "id": "home_improvement_&_lighting",
+                        "title": "Home Improvement & Lighting"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "home_appliances",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Home Appliances",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Home Appliances",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Sc0cb08e3bd4b47da878b33a265df50e66/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S06ecd71dedef49a2b19caca6ec0d414fY/27x27.png",
+                        "id": "home_appliances",
+                        "title": "Home Appliances"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "automotive_%26_motorcycle",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Automotive & Motorcycle",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Automotive & Motorcycle",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S14bc071ed2414249b7d49f875f4dd486T/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S641d13301ae042999bbc1dc1edd2bb80K/27x27.png",
+                        "id": "automotive_&_motorcycle",
+                        "title": "Automotive & Motorcycle"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "luggages_%26_bags",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Luggages & Bags",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Luggages & Bags",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Scff639e6d81b4ad98b694873cac35d7db/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sdfc8d19ab9ef4060b9a4b2a0bf3bf8d6g/27x27.png",
+                        "id": "luggages_&_bags",
+                        "title": "Luggages & Bags"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "shoes",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Shoes",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Shoes",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S430d82a8342b4cac909fc95d877ad6e1x/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S2747297a0c8046dfacd15481299e66a1e/27x27.png",
+                        "id": "shoes",
+                        "title": "Shoes"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "special_occasion_costume",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Special Occasion Costume",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Special Occasion Costume",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S23bc308e9c794d4b9484186fbc0b58f6Z/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sd83f1f38264d4239b3809d34d6a9037ch/27x27.png",
+                        "id": "special_occasion_costume",
+                        "title": "Special Occasion Costume"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "women%27s_clothing",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Women's Clothing",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Women's Clothing",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S4731795737da45c09cc23bbc25f1bdf1I/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S054e9426d16c4b61a71f70b3e2c4a753s/27x27.png",
+                        "id": "women's_clothing",
+                        "title": "Women's Clothing"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "sports_%26_entertainment",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Sports & Entertainment",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Sports & Entertainment",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Scf0db78b715440389d2793da087c89d24/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S4819ae16372f4c7db1cd5a454a490eb8l/27x27.png",
+                        "id": "sports_&_entertainment",
+                        "title": "Sports & Entertainment"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "toys_%26_games",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Toys & Games",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Toys & Games",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S44f59311d0f7498f8a1d5c997e854dd0i/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S561d8ec287864b809c7e2710891d796aV/27x27.png",
+                        "id": "toys_&_games",
+                        "title": "Toys & Games"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "babies_%26_kids",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Babies & Kids",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Babies & Kids",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S09f53523788f4b7f82a56e8bc7684b1dh/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S3cb642ef981e428bae818d11c5b03569r/27x27.png",
+                        "id": "babies_&_kids",
+                        "title": "Babies & Kids"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "phones_%26_telecommunications",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Phones & Telecommunications",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Phones & Telecommunications",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S58b9811454e14026b7261cc264cfff3fY/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sa92daba0dd894d0590fbaecb5cf9f917I/27x27.png",
+                        "id": "phones_&_telecommunications",
+                        "title": "Phones & Telecommunications"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "computer%2C_office_%26_education",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Computer, Office & Education",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Computer, Office & Education",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S1d99ec8263754e49a138aa37ac6585f4E/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S574a6484c3fb432fa47b1a4a9f99e06ez/27x27.png",
+                        "id": "computer,_office_&_education",
+                        "title": "Computer, Office & Education"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "furniture",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Furniture",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Furniture",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S8d22e67f26b546478403f0b427d8cd19j/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sf89ef510c7bb486b9bdea15aae30a10ck/27x27.png",
+                        "id": "furniture",
+                        "title": "Furniture"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "pet_supplies",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Pet Supplies",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Pet Supplies",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Sf590feda1750435a920b49ca09f75220W/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S714ec3d839fa4241a02ad2f9bd1779e69/27x27.png",
+                        "id": "pet_supplies",
+                        "title": "Pet Supplies"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "security_%26_protection",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Security & Protection",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Security & Protection",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S53dc8295a6904051be85de8d544a2049G/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S7e7cd97e21494081997bb60e92014707L/27x27.png",
+                        "id": "security_&_protection",
+                        "title": "Security & Protection"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "beauty_%26_health",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Beauty & Health",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Beauty & Health",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S182769c2595148ed93a2dc78b31dc96a5/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S535befa297e247beb97fec52fee863cdM/27x27.png",
+                        "id": "beauty_&_health",
+                        "title": "Beauty & Health"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "tools_%26_industrail",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Tools & Industrail",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Tools & Industrial",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Sac77a905737b4bb4a4d1bb02a82ce040W/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sec53806757ca41b884dca6f11dea7998q/30x30.png",
+                        "id": "tools_&_industrail",
+                        "title": "Tools & Industrial"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "lingerie_%26_loungewear",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Lingerie & Loungewear",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Lingerie & Loungewear",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/Se87db970819e4399a02a861a05b03a713/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/S23a9c982b0b84a19adf4e072b624d886s/27x27.png",
+                        "id": "lingerie_&_loungewear",
+                        "title": "Lingerie & Loungewear"
+                    },
+                    {
+                        "trace": {
+                            "exposure": {},
+                            "click": {},
+                            "utLogMap": {
+                                "tab_id": "jewelry_%26_watches",
+                                "ae_sg_pvid": "5601c548-51cd-4170-aec8-021a4179d743",
+                                "tab_list": "home_%26_garden;hair_extensions_%26_wigs;men%27s_clothing;accessories;consumer_electronics;home_improvement_%26_lighting;home_appliances;automotive_%26_motorcycle;luggages_%26_bags;shoes;special_occasion_costume;women%27s_clothing;sports_%26_entertainment;toys_%26_games;babies_%26_kids;phones_%26_telecommunications;computer%2C_office_%26_education;furniture;pet_supplies;security_%26_protection;beauty_%26_health;tools_%26_industrail;lingerie_%26_loungewear;jewelry_%26_watches;",
+                                "en_keyword": "Jewelry & Watches",
+                                "utdid": "//KkHTvxrGUCAWlxKPRSLHBI",
+                                "ae_sg_abid": "356604",
+                                "name": "Jewelry & Watches",
+                                "ship_to_country": "NG",
+                                "card_list": "",
+                                "scene": "category_navigate"
+                            }
+                        },
+                        "icon": "https://ae01.alicdn.com/kf/S7d7842a1811c40d381b291093e7e6b44i/440x440.png",
+                        "smallIcon": "https://ae01.alicdn.com/kf/Sc4a199d4eee2460592c53f47a9387e94g/27x27.png",
+                        "id": "jewelry_&_watches",
+                        "title": "Jewelry & Watches"
+                    }
+                ],
+                "selectedTab": "home_&_garden"
+            }
+        },
+        "pvid": "543d3be0-d5e7-4296-b955-d516af94717b",
+        "scm": "1007.45917.346190.0",
+        "version": 1.0,
+        "tpp_trace": "2101ead816964677464216111ea4c8",
+        "tpp_buckets": "35917#0#346190#0_35917#22791#470304#10"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "traceId": "2101ead816964677464216111ea4c8",
+    "v": "1.0"
+}

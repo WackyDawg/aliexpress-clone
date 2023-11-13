@@ -4,10 +4,16 @@
   "description": "Backend Server For Aliexpress-Clone",
   "main": "app.js",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.438.0",
+    "aws-sdk": "^2.1483.0",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-status-monitor": "^1.3.4",
+    "geoip-lite": "^1.4.7",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.3",
+    "morgan": "^1.10.0",
     "nodemon": "^3.0.1",
     "passport": "^0.6.0"
   },
