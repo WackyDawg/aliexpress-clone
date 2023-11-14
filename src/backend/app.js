@@ -1,6 +1,6 @@
 const express = require("express");
 const dotenv = require("dotenv");
-const mongoose = require('./config/database-config');
+const mongoose = require('./api/config/database-config');
 const { envConfig } = require('../config/env-config');
 
 
